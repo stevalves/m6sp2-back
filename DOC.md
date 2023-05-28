@@ -1,8 +1,8 @@
 ### Paths:
 
-+ [**Users Routes**](#users)
-+ [**Login Routes**](#login)
-+ [**Contacts Routes**](#contacts)
++ [**Users Routes**](https://github.com/stevalves/m6sp2-back/blob/main/DOC.md#users)
++ [**Login Routes**](https://github.com/stevalves/m6sp2-back/blob/main/DOC.md#login)
++ [**Contacts Routes**](https://github.com/stevalves/m6sp2-back/blob/main/DOC.md#contacts)
 
 ## Users
 

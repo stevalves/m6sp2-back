@@ -2,7 +2,7 @@
 ### *O Objetivo foi desenvolver um serviço de back-end responsável por simular uma agenda, podendo adicionar/remover contatos utilizando TypeORM.*
 
 #### [Diagrama](https://drive.google.com/file/d/15vOe7nMFv4YZt0Z_-N8UGTGQouOi6TyG/view?usp=sharing)
-#### [Documentação]()
+#### [Documentação](https://github.com/stevalves/m6sp2-back/blob/main/DOC.md)
 
 ## **Tecnologias e bibliotecas**:
 * Node

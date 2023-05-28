@@ -1,6 +1,8 @@
-[to users](#users)
-[to login](#login)
-[to contacts](#contacts)
+### Paths:
+
++ [**Users Routes**](#users)
++ [**Login Routes**](#login)
++ [**Contacts Routes**](#contacts)
 
 ## Users
 

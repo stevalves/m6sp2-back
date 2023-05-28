@@ -1,9 +1,3 @@
-### Paths:
-
-[**Users Routes**](#users)
-[**Login Routes**](#login)
-[**Contacts Routes**](#contacts)
-
 ## Users
 
 #### POST - _localhost:3000/users_

@@ -67,6 +67,25 @@
               "created_at": "2023-05-28T05:21:11.980Z"
             }
             
+#### GET - _localhost:3000/users/me_
++ Request (application/json)
+
+    + Headers
+
+            Authorization: Bearer [access_token]
+
++ Response 200 (application/json)
+
+    + Body
+
+            {
+              "id": "ce24e55d-a449-4b90-b08a-45eeb0e1c2e8",
+              "name": "exampleUpdated",
+              "email": "example@mail.com",
+              "phone": 1234,
+              "created_at": "2023-05-28T05:21:11.980Z"
+            }
+        	    
 #### DELETE - _localhost:3000/users_
 + Request (application/json)
 

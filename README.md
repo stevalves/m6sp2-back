@@ -1,4 +1,4 @@
-# Agenda - Projeto FullStack / BACK
+# OurC - Projeto FullStack / BACK
 ### *O Objetivo foi desenvolver um serviço de back-end responsável por simular uma agenda, podendo adicionar/remover contatos utilizando TypeORM.*
 
 #### [Diagrama](https://drive.google.com/file/d/15vOe7nMFv4YZt0Z_-N8UGTGQouOi6TyG/view?usp=sharing)

@@ -19,7 +19,7 @@ class Contact {
   email: string;
 
   @Column()
-  phone: number;
+  phone: string;
 
   @CreateDateColumn()
   created_at: Date;

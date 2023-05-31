@@ -6,7 +6,7 @@ const userSchema = z.object
   name: z.string(),
   email: z.string().email(),
   password: z.string(),
-  phone: z.number(),
+  phone: z.string(),
   created_at: z.date(),
 });
 
